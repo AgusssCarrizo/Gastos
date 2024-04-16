@@ -33,7 +33,7 @@ const main = async () => {
         break;
     }
   }
-  console.log("Adiós!");
+  console.log("Hasta luego, recuerde ahorrar.");
 };
 main();
 
